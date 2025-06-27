@@ -35,18 +35,6 @@
             "name": "ডিজিটাল মার্কেটিং",
             "quantity": "14",
             "image": "https://george-fx.github.io/nuton_api/assets/category/06.png"
-        },
-        {
-            "id": 7,
-            "name": "এসইও",
-            "quantity": "14",
-            "image": "https://george-fx.github.io/nuton_api/assets/category/06.png"
-        },
-        {
-            "id": 8,
-            "name": "২ডি অটোক্যাড",
-            "quantity": "14",
-            "image": "https://george-fx.github.io/nuton_api/assets/category/06.png"
         }
     ]
 }
