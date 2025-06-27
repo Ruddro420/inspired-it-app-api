@@ -2,7 +2,7 @@
     "categories": [
         {
             "id": 1,
-            "name": "Basic Computer",
+            "name": "বেসিক কম্পিউটার",
             "quantity": "7",
             "image": "https://george-fx.github.io/nuton_api/assets/category/01.png"
         },
