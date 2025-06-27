@@ -8,31 +8,43 @@
         },
         {
             "id": 2,
-            "name": "Business",
+            "name": "গ্রাফিক এন্ড ইউআই ডিজাইন",
             "quantity": "20",
             "image": "https://george-fx.github.io/nuton_api/assets/category/02.png"
         },
         {
             "id": 3,
-            "name": "Design UI/UX",
+            "name": "মোশন গ্রাফিক্স",
             "quantity": "17",
             "image": "https://george-fx.github.io/nuton_api/assets/category/03.png"
         },
         {
             "id": 4,
-            "name": "Digital Marketing",
+            "name": "ওয়েব ডিজাইন",
             "quantity": "23",
             "image": "https://george-fx.github.io/nuton_api/assets/category/04.png"
         },
         {
             "id": 5,
-            "name": "Computer games",
+            "name": "ওয়েব ডেভেলপমেন্ট",
             "quantity": "5",
             "image": "https://george-fx.github.io/nuton_api/assets/category/05.png"
         },
         {
             "id": 6,
-            "name": "Analytics",
+            "name": "ডিজিটাল মার্কেটিং",
+            "quantity": "14",
+            "image": "https://george-fx.github.io/nuton_api/assets/category/06.png"
+        },
+        {
+            "id": 7,
+            "name": "এসইও",
+            "quantity": "14",
+            "image": "https://george-fx.github.io/nuton_api/assets/category/06.png"
+        },
+        {
+            "id": 8,
+            "name": "২ডি অটোক্যাড",
             "quantity": "14",
             "image": "https://george-fx.github.io/nuton_api/assets/category/06.png"
         }
