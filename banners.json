@@ -6,12 +6,11 @@
         },
         {
             "id": 2,
-            "banner": "https://raw.githubusercontent.com/Ruddro420/inspired-it-app-api/refs/heads/main/course-img/2.jpg"
+             "banner": "https://george-fx.github.io/nuton_api/assets/banners/01.png"
         },
         {
             "id": 3,
-            "banner": "https://raw.githubusercontent.com/Ruddro420/inspired-it-app-api/refs/heads/main/course-img/3.jpg"
-        },
-     
+             "banner": "https://george-fx.github.io/nuton_api/assets/banners/01.png"
+        }
     ]
 }
